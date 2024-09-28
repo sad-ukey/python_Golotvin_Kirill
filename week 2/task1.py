@@ -1,0 +1,2 @@
+strs = {"function", "fuck", "fufel"}
+
